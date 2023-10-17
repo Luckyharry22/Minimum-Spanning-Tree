@@ -32,15 +32,6 @@ Outputs the MST with the total cost.
 - 'Disjoint Set (MFSET) (kruskal_mst.py)': A faster implementation of the disjoint-set (also known as MFSET) data structure with path compression and union by rank.
 
 
-## Input Format
-
-The input file should follow this format:
-
-- `n` is the number of vertices in the graph.
-- `aij` represents the weight of the edge between vertex `i` and vertex `j`.
-- If there's no direct edge between two vertices, the weight should be 0.
-
-
 ## Algorithms
 
 This repository supports two MST algorithms:
@@ -69,6 +60,16 @@ To find the MST of a graph, follow these steps:
      ```
 
 4. Review the output to see the MST and its total cost.
+
+
+## Input Format
+
+The input file should follow this format:
+
+- `n` is the number of vertices in the graph.
+- `aij` represents the weight of the edge between vertex `i` and vertex `j`.
+- If there's no direct edge between two vertices, the weight should be 0.
+
 
 ## Example Input
 
