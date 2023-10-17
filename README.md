@@ -84,7 +84,7 @@ The code will generate the MST and display the following:
 - Total cost of the MST.
 - Edges of the MST.
 
-![Alt text](output.png)
+[Alt text](output.png)
 
 
 ## Contact Information
