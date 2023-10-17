@@ -73,8 +73,7 @@ To find the MST of a graph, follow these steps:
 ## Example Input
 
 Here's an example input file for a graph with 4 vertices and their edge weights:
-
-![Alt text](input.png)
+-![Alt text](input.png)
 
 
 ## Output
@@ -83,8 +82,7 @@ The code will generate the MST and display the following:
 
 - Total cost of the MST.
 - Edges of the MST.
-
-[Alt text](output.png)
+-![Alt text](output.png)
 
 
 ## Contact Information
